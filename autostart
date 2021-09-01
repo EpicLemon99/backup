@@ -1,0 +1,8 @@
+# Set wallpaper
+nitrogen --restore &
+
+# Panel
+tint2 &
+
+# Picom
+picom -CGb &
