@@ -5,4 +5,4 @@ nitrogen --restore &
 tint2 &
 
 # Picom
-picom -CGb &
+picom &
